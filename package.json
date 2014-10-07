@@ -1,0 +1,18 @@
+{
+  "name": "bitbucket-hook",
+  "version": "1.0.0",
+  "description": "Hooks for Bitbucket POST hooks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitbucket",
+    "hook"
+  ],
+  "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.3.5"
+  }
+}
